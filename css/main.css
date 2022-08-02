@@ -219,6 +219,9 @@ footer{
 @media (max-width: 576px) {
     .container{
         width: 90%;}
+        .suitcases{
+            width: 100%;
+        }
         .input{
             width: auto;
         }
